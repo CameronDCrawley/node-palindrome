@@ -2,7 +2,7 @@
 Type in a word or phrase and find out if it's a palindrome.
 
 ## Live Demo
-Render Deployment:https://primetime-moments.onrender.com/signup](https://node-palindrome-bootcamp-wzlb.onrender.com/
+**Render Deployment:** https://node-palindrome-bootcamp-wzlb.onrender.com/
 
 ## What's a Palindrome?
 A word or phrase that reads the same forwards and backwards, like racecar, level, or A man, a plan, a canal: Panama. This checker automatically ignores spaces, punctuation, and capital letters, so phrases like the last one count properly.
